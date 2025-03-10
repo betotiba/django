@@ -1,0 +1,4 @@
+# Nao deve ser enviado
+
+__pycache__
+db.sqlite3
