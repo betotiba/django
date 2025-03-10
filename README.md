@@ -73,4 +73,8 @@ Enviar os commits locais, para um repositório remoto.
 ```
 git push <remote> <branch>
 git push origin develop
+
+Remover o cach 
+```
+git rm --cached db.sqlite3
 ```
