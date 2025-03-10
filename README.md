@@ -77,4 +77,5 @@ git push origin develop
 Remover o cach 
 ```
 git rm --cached db.sqlite3
+git rm --cached -r admin/__pycache__
 ```
